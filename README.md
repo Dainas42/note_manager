@@ -7,3 +7,5 @@ https://github.com/Dainas42/note_manager/blob/main/add_input.py - Пользов
 https://github.com/Dainas42/note_manager/blob/main/add_list.py - Добавление в список заголовки заметок вписанные пользователем
 
 https://github.com/Dainas42/note_manager/blob/main/final.py - Собранная информация от пользователя о заметке сохраняется в словарь и выводиться через команду print
+
+https://github.com/Dainas42/note_manager/blob/main/add_titles_loop.py - Цикл для добавление заголвков и проверка на уникальность заголовков
